@@ -1,8 +1,3 @@
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
 
 ![Frontend Screenshot](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/frontend-screenshot.png)
 
@@ -281,7 +276,7 @@ PUT  /api/v1/edit-room-review/:review_id    - Edit review
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SamiurRahmanMukul/Hotel-Room-Booking-System.git
+git clone https://github.com/Mitultopiya/Hotel-Room-Booking-System.git
 cd Hotel-Room-Booking-System
 ```
 
@@ -430,15 +425,6 @@ cd admin-panel && npm run lint
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-### Md. Samiur Rahman (Mukul)
-
-- 🌐 Website: [srmukul.com](https://srmukul.com)
-- 📧 Email: [contact@srmukul.com](mailto:contact@srmukul.com)
-- 🐙 GitHub: [@SamiurRahmanMukul](https://github.com/SamiurRahmanMukul)
-- 💼 LinkedIn: [@SamiurRahmanMukul](https://www.linkedin.com/in/SamiurRahmanMukul)
-
 ## 🙏 Acknowledgments
 
 - Express.js team for the robust web framework
@@ -452,24 +438,3 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 <p align="center">
   <strong>⭐ If you found this project helpful, please give it a star! ⭐</strong>
 </p>
-
-<!-- my social media links -->
-
-[facebook-url]: https://www.facebook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
-
-<!-- shield icon links -->
-
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
-
-<!-- live preview links -->
-
-[admin-panel-link]: https://admin-beach-resort.vercel.app
-[frontend-link]: https://mukul-beach-resort.vercel.app
