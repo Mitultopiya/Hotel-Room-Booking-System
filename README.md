@@ -432,9 +432,3 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 - React and Next.js teams for the powerful frontend frameworks
 - Ant Design team for the comprehensive UI component library
 - All open-source contributors who made this project possible
-
----
-
-<p align="center">
-  <strong>⭐ If you found this project helpful, please give it a star! ⭐</strong>
-</p>
